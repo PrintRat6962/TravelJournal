@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TravelJournal/static/css/main.e6f5ee51.css",
+    "main.js": "/TravelJournal/static/js/main.3ab71457.js",
+    "static/js/453.b04edd44.chunk.js": "/TravelJournal/static/js/453.b04edd44.chunk.js",
+    "static/media/fjord.png": "/TravelJournal/static/media/fjord.2488b846522297029b4e.png",
+    "static/media/OperaHouse.png": "/TravelJournal/static/media/OperaHouse.3763fbd4216d2c322d5a.png",
+    "static/media/Fuji.png": "/TravelJournal/static/media/Fuji.10ff067ecd97eb859f6f.png",
+    "index.html": "/TravelJournal/index.html",
+    "main.e6f5ee51.css.map": "/TravelJournal/static/css/main.e6f5ee51.css.map",
+    "main.3ab71457.js.map": "/TravelJournal/static/js/main.3ab71457.js.map",
+    "453.b04edd44.chunk.js.map": "/TravelJournal/static/js/453.b04edd44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f5ee51.css",
+    "static/js/main.3ab71457.js"
+  ]
+}
